@@ -1,11 +1,9 @@
 package org.joou.test;
 
-import org.joou.*;
+import static org.joou.Unsigned.*;
+
 import org.junit.Assert;
 import org.junit.Test;
-
-import static junit.framework.Assert.assertEquals;
-import static org.joou.Unsigned.*;
 
 public class UMathTest {
 
